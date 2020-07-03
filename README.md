@@ -17,4 +17,4 @@ However, with you know portuguese language 🇧🇷 🇵🇹 check it out my Not
 https://www.notion.so/Design-Patterns-dc97eca512454408a07c73870d15eb42
 
 
-Made with 💗 by Eduardo Ferreira
+Made with  💗  by **Eduardo Ferreira**
