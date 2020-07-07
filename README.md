@@ -2,7 +2,7 @@
 
 ### That's repository will explain:
 
-* 👨🏽‍💻  **SOLID Principles**
+* 👨🏽‍💻 **SOLID Principles**
 * 🎩 **Creational Design Patterns**
 * 📝 **Dependency Injection**
 * 🎯 **Structural Design Patterns**
