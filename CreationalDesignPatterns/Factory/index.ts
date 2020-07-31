@@ -1,5 +1,5 @@
-import { FordFactory } from './car-factory';
+import { ShippingCompany } from './shipping-factory';
 
-let fiesta = FordFactory.getFiesta(); // Works great! All those characteristic are available.
-let fusion = FordFactory.getFusion(); // Works great! All those characteristic are available.
+ShippingCompany.getTruck().deliver(); // Shipping by the road;
+ShippingCompany.getBoat().deliver(); // Works great! All those characteristic are available.
 
