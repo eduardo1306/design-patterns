@@ -2,7 +2,7 @@ import { IPostsServices } from './posts-service';
 import { IPost } from './posts';
 
 export class NewsFeed {
-  constructor( private _service: IPostsServices) {}
+  constructor(private _service: IPostsServices) {}
 
   show() {
     this._service.getAll().then((posts: IPost[]) => {
